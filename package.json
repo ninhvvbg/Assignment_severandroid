@@ -1,0 +1,27 @@
+{
+  "name": "ninhvvpackage",
+  "version": "1.0.0",
+  "description": "test 06/04/2021",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodejs index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninhvvbg/Assignment_severandroid.git"
+  },
+  "keywords": [
+    "abc123"
+  ],
+  "author": "authorninh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninhvvbg/Assignment_severandroid/issues"
+  },
+  "homepage": "https://github.com/ninhvvbg/Assignment_severandroid#readme"
+}
